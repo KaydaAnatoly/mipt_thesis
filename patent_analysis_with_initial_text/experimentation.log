@@ -1,0 +1,272 @@
+2025-03-29 17:53:02,967 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 18:12:54,662 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 18:15:38,195 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 18:16:32,976 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 18:32:28,971 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 18:32:47,844 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 18:42:07,998 - INFO - Processing US6617405.pdf
+2025-03-29 18:42:07,999 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6617405.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:42:08,000 - INFO - Processing US4481301.pdf
+2025-03-29 18:42:08,001 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4481301.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:42:08,002 - INFO - Processing US20060046928.pdf
+2025-03-29 18:42:08,003 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060046928.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:42:08,004 - INFO - Processing US4849389.pdf
+2025-03-29 18:42:08,006 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4849389.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:42:08,008 - INFO - Processing US4843132.pdf
+2025-03-29 18:42:08,009 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4843132.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:42:08,010 - INFO - Processing US9352308.pdf
+2025-03-29 18:42:08,012 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US9352308.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:42:08,013 - INFO - Processing US6248831.pdf
+2025-03-29 18:42:08,014 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6248831.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:42:08,015 - INFO - Processing US4374753.pdf
+2025-03-29 18:42:08,017 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4374753.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:42:08,018 - INFO - Processing US20060166812.pdf
+2025-03-29 18:42:08,020 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060166812.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:42:08,021 - INFO - Processing US4148754.pdf
+2025-03-29 18:42:08,023 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4148754.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:42:08,037 - INFO - Processed 0 patents
+2025-03-29 18:42:08,039 - WARNING - No result files found in /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_analysis_with_initial_text/results
+2025-03-29 18:42:08,043 - ERROR - Program failed: 'agent'
+2025-03-29 18:44:08,259 - INFO - Processing US6617405.pdf
+2025-03-29 18:44:08,261 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6617405.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:08,261 - INFO - Processing US4481301.pdf
+2025-03-29 18:44:08,262 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4481301.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:08,263 - INFO - Processing US20060046928.pdf
+2025-03-29 18:44:08,265 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060046928.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:08,266 - INFO - Processing US4849389.pdf
+2025-03-29 18:44:08,268 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4849389.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:08,270 - INFO - Processing US4843132.pdf
+2025-03-29 18:44:08,272 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4843132.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:08,273 - INFO - Processing US9352308.pdf
+2025-03-29 18:44:08,275 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US9352308.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:08,276 - INFO - Processing US6248831.pdf
+2025-03-29 18:44:08,277 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6248831.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:08,279 - INFO - Processing US4374753.pdf
+2025-03-29 18:44:08,280 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4374753.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:08,281 - INFO - Processing US20060166812.pdf
+2025-03-29 18:44:08,282 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060166812.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:08,283 - INFO - Processing US4148754.pdf
+2025-03-29 18:44:08,284 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4148754.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:08,286 - INFO - Processed 0 patents
+2025-03-29 18:44:08,289 - WARNING - No result files found in /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_analysis_with_initial_text/results
+2025-03-29 18:44:08,291 - ERROR - Program failed: 'agent'
+2025-03-29 18:44:14,833 - INFO - Processing US6617405.pdf
+2025-03-29 18:44:14,834 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6617405.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:14,835 - INFO - Processing US4481301.pdf
+2025-03-29 18:44:14,837 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4481301.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:14,838 - INFO - Processing US20060046928.pdf
+2025-03-29 18:44:14,839 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060046928.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:14,840 - INFO - Processing US4849389.pdf
+2025-03-29 18:44:14,842 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4849389.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:14,843 - INFO - Processing US4843132.pdf
+2025-03-29 18:44:14,844 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4843132.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:14,845 - INFO - Processing US9352308.pdf
+2025-03-29 18:44:14,848 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US9352308.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:14,850 - INFO - Processing US6248831.pdf
+2025-03-29 18:44:14,852 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6248831.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:14,852 - INFO - Processing US4374753.pdf
+2025-03-29 18:44:14,854 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4374753.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:14,855 - INFO - Processing US20060166812.pdf
+2025-03-29 18:44:14,856 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060166812.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:14,857 - INFO - Processing US4148754.pdf
+2025-03-29 18:44:14,858 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4148754.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:14,861 - INFO - Processed 0 patents
+2025-03-29 18:44:14,864 - WARNING - No result files found in /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_analysis_with_initial_text/results
+2025-03-29 18:44:14,868 - ERROR - Program failed: 'agent'
+2025-03-29 18:44:17,399 - INFO - Processing US6617405.pdf
+2025-03-29 18:44:17,400 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6617405.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:17,401 - INFO - Processing US4481301.pdf
+2025-03-29 18:44:17,402 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4481301.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:17,406 - INFO - Processing US20060046928.pdf
+2025-03-29 18:44:17,408 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060046928.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:17,409 - INFO - Processing US4849389.pdf
+2025-03-29 18:44:17,409 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4849389.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:17,410 - INFO - Processing US4843132.pdf
+2025-03-29 18:44:17,411 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4843132.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:17,413 - INFO - Processing US9352308.pdf
+2025-03-29 18:44:17,414 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US9352308.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:17,416 - INFO - Processing US6248831.pdf
+2025-03-29 18:44:17,421 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6248831.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:17,422 - INFO - Processing US4374753.pdf
+2025-03-29 18:44:17,423 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4374753.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:17,429 - INFO - Processing US20060166812.pdf
+2025-03-29 18:44:17,430 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060166812.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:17,431 - INFO - Processing US4148754.pdf
+2025-03-29 18:44:17,433 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4148754.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:44:17,434 - INFO - Processed 0 patents
+2025-03-29 18:44:17,436 - WARNING - No result files found in /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_analysis_with_initial_text/results
+2025-03-29 18:44:17,441 - ERROR - Program failed: 'agent'
+2025-03-29 18:45:03,287 - INFO - Processing US6617405.pdf
+2025-03-29 18:45:03,288 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6617405.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:03,289 - INFO - Processing US4481301.pdf
+2025-03-29 18:45:03,290 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4481301.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:03,292 - INFO - Processing US20060046928.pdf
+2025-03-29 18:45:03,293 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060046928.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:03,294 - INFO - Processing US4849389.pdf
+2025-03-29 18:45:03,295 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4849389.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:03,297 - INFO - Processing US4843132.pdf
+2025-03-29 18:45:03,301 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4843132.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:03,303 - INFO - Processing US9352308.pdf
+2025-03-29 18:45:03,304 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US9352308.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:03,304 - INFO - Processing US6248831.pdf
+2025-03-29 18:45:03,306 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6248831.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:03,307 - INFO - Processing US4374753.pdf
+2025-03-29 18:45:03,307 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4374753.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:03,309 - INFO - Processing US20060166812.pdf
+2025-03-29 18:45:03,311 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060166812.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:03,312 - INFO - Processing US4148754.pdf
+2025-03-29 18:45:03,313 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4148754.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:03,315 - INFO - Processed 0 patents
+2025-03-29 18:45:03,317 - WARNING - No result files found in /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_analysis_with_initial_text/results
+2025-03-29 18:45:03,320 - ERROR - Program failed: 'agent'
+2025-03-29 18:45:34,491 - INFO - Processing US6617405.pdf
+2025-03-29 18:45:34,493 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6617405.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:34,494 - INFO - Processing US4481301.pdf
+2025-03-29 18:45:34,496 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4481301.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:34,496 - INFO - Processing US20060046928.pdf
+2025-03-29 18:45:34,497 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060046928.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:34,499 - INFO - Processing US4849389.pdf
+2025-03-29 18:45:34,500 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4849389.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:34,501 - INFO - Processing US4843132.pdf
+2025-03-29 18:45:34,503 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4843132.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:34,504 - INFO - Processing US9352308.pdf
+2025-03-29 18:45:34,505 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US9352308.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:34,507 - INFO - Processing US6248831.pdf
+2025-03-29 18:45:34,508 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6248831.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:34,509 - INFO - Processing US4374753.pdf
+2025-03-29 18:45:34,511 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4374753.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:34,512 - INFO - Processing US20060166812.pdf
+2025-03-29 18:45:34,513 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060166812.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:34,514 - INFO - Processing US4148754.pdf
+2025-03-29 18:45:34,516 - ERROR - Error processing file /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4148754.pdf: 'PosixPath' object has no attribute 'endswith'
+2025-03-29 18:45:34,519 - INFO - Processed 0 patents
+2025-03-29 18:45:34,521 - WARNING - No result files found in /home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_analysis_with_initial_text/results
+2025-03-29 18:45:34,524 - ERROR - Program failed: 'agent'
+2025-03-29 19:09:56,928 - INFO - Processing US6617405.pdf
+2025-03-29 19:10:26,409 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:10:26,422 - ERROR - Error processing US6617405.pdf with gpt4o_mini: Object of type ParsedChatCompletion[PatentInfo] is not JSON serializable
+2025-03-29 19:11:05,017 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:11:05,031 - ERROR - Error processing US6617405.pdf with gpt4o: Object of type ParsedChatCompletion[PatentInfo] is not JSON serializable
+2025-03-29 19:11:05,035 - INFO - Processing US4481301.pdf
+2025-03-29 19:11:26,758 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:11:26,770 - ERROR - Error processing US4481301.pdf with gpt4o_mini: Object of type ParsedChatCompletion[PatentInfo] is not JSON serializable
+2025-03-29 19:11:48,123 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:11:48,134 - ERROR - Error processing US4481301.pdf with gpt4o: Object of type ParsedChatCompletion[PatentInfo] is not JSON serializable
+2025-03-29 19:11:48,137 - INFO - Processing US20060046928.pdf
+2025-03-29 19:12:04,920 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:12:04,931 - ERROR - Error processing US20060046928.pdf with gpt4o_mini: Object of type ParsedChatCompletion[PatentInfo] is not JSON serializable
+2025-03-29 19:12:17,212 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:12:17,227 - ERROR - Error processing US20060046928.pdf with gpt4o: Object of type ParsedChatCompletion[PatentInfo] is not JSON serializable
+2025-03-29 19:12:17,231 - INFO - Processing US4849389.pdf
+2025-03-29 19:12:49,977 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:12:49,990 - ERROR - Error processing US4849389.pdf with gpt4o_mini: Object of type ParsedChatCompletion[PatentInfo] is not JSON serializable
+2025-03-29 19:13:05,141 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:13:05,156 - ERROR - Error processing US4849389.pdf with gpt4o: Object of type ParsedChatCompletion[PatentInfo] is not JSON serializable
+2025-03-29 19:13:05,157 - INFO - Processing US4843132.pdf
+2025-03-29 19:13:28,480 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:13:28,491 - ERROR - Error processing US4843132.pdf with gpt4o_mini: Object of type ParsedChatCompletion[PatentInfo] is not JSON serializable
+2025-03-29 19:14:01,865 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:14:01,875 - ERROR - Error processing US4843132.pdf with gpt4o: Object of type ParsedChatCompletion[PatentInfo] is not JSON serializable
+2025-03-29 19:14:01,877 - INFO - Processing US9352308.pdf
+2025-03-29 19:16:38,101 - INFO - Processing US6617405.pdf
+2025-03-29 19:22:20,598 - INFO - Analyzing 10 PDF files using model: gpt-4o-mini
+2025-03-29 19:22:20,601 - INFO - Using model: gpt-4o-mini
+2025-03-29 19:22:20,602 - INFO - Number of PDF files: 10
+2025-03-29 19:22:20,604 - INFO - PDF files: [PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6617405.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4481301.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060046928.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4849389.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4843132.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US9352308.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6248831.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4374753.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060166812.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4148754.pdf')]
+2025-03-29 19:23:02,952 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:23:23,643 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:23:48,029 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:24:20,476 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:25:06,659 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:26:07,688 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:26:33,500 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:28:00,740 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:29:53,483 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:31:24,926 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:31:24,939 - INFO - Analyzing 10 PDF files using model: gpt-4o
+2025-03-29 19:31:24,941 - INFO - Using model: gpt-4o
+2025-03-29 19:31:24,944 - INFO - Number of PDF files: 10
+2025-03-29 19:31:24,947 - INFO - PDF files: [PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6617405.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4481301.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060046928.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4849389.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4843132.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US9352308.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6248831.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4374753.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060166812.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4148754.pdf')]
+2025-03-29 19:32:11,213 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:32:44,582 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:32:46,304 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-29 19:32:46,306 - INFO - Retrying request to /chat/completions in 0.440000 seconds
+2025-03-29 19:33:01,373 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:33:08,541 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-29 19:33:08,546 - INFO - Retrying request to /chat/completions in 10.714000 seconds
+2025-03-29 19:33:31,988 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:33:33,981 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-29 19:33:33,983 - INFO - Retrying request to /chat/completions in 7.208000 seconds
+2025-03-29 19:34:10,186 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:34:12,662 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-29 19:34:12,664 - INFO - Retrying request to /chat/completions in 11.166000 seconds
+2025-03-29 19:36:06,094 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:36:29,139 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:37:11,221 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:37:13,673 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-29 19:37:13,675 - INFO - Retrying request to /chat/completions in 1.168000 seconds
+2025-03-29 19:38:23,102 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 19:40:10,414 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 22:42:57,674 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 22:44:30,344 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 22:45:48,266 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 22:47:43,876 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 22:49:30,685 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 22:49:57,622 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 22:56:10,071 - INFO - Analyzing 10 PDF files using model: gpt-4o, gpt-4o-mini
+2025-03-29 22:56:10,074 - INFO - Using model: gpt-4o, gpt-4o-mini
+2025-03-29 22:56:10,075 - INFO - Number of PDF files: 10
+2025-03-29 22:56:10,077 - INFO - PDF files: [PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6617405.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4481301.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060046928.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4849389.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4843132.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US9352308.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6248831.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4374753.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060166812.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4148754.pdf')]
+2025-03-29 22:56:11,878 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-29 22:57:34,969 - INFO - Analyzing 10 PDF files using model: gpt-4o, gpt-4o-mini
+2025-03-29 22:57:34,981 - INFO - Using model: gpt-4o, gpt-4o-mini
+2025-03-29 22:57:34,983 - INFO - Number of PDF files: 10
+2025-03-29 22:57:34,984 - INFO - PDF files: [PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6617405.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4481301.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060046928.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4849389.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4843132.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US9352308.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6248831.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4374753.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060166812.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4148754.pdf')]
+2025-03-29 22:57:36,821 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-29 22:59:29,200 - INFO - Analyzing 10 PDF files using model: gpt-4o-mini, gpt-4o
+2025-03-29 22:59:29,202 - INFO - Using model: gpt-4o-mini, gpt-4o
+2025-03-29 22:59:29,203 - INFO - Number of PDF files: 10
+2025-03-29 22:59:29,204 - INFO - PDF files: [PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6617405.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4481301.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060046928.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4849389.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4843132.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US9352308.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6248831.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4374753.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060166812.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4148754.pdf')]
+2025-03-29 22:59:30,993 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-29 23:02:02,388 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:02:38,948 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:02:39,226 - INFO - Analyzing 10 PDF files using model: gpt-4o-mini, gpt-4o
+2025-03-29 23:02:39,228 - INFO - Using model: gpt-4o-mini, gpt-4o
+2025-03-29 23:02:39,229 - INFO - Number of PDF files: 10
+2025-03-29 23:02:39,231 - INFO - PDF files: [PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6617405.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4481301.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060046928.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4849389.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4843132.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US9352308.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6248831.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4374753.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060166812.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4148754.pdf')]
+2025-03-29 23:02:40,838 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-29 23:03:24,451 - INFO - Analyzing 10 PDF files using model: gpt-4o-mini, gpt-4o
+2025-03-29 23:03:24,454 - INFO - Using model: gpt-4o-mini, gpt-4o
+2025-03-29 23:03:24,455 - INFO - Number of PDF files: 10
+2025-03-29 23:03:24,457 - INFO - PDF files: [PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6617405.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4481301.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060046928.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4849389.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4843132.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US9352308.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6248831.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4374753.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060166812.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4148754.pdf')]
+2025-03-29 23:03:26,045 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-29 23:04:41,523 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:05:20,767 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:05:20,892 - INFO - Analyzing 10 PDF files using model: gpt-4o-mini
+2025-03-29 23:05:20,893 - INFO - Using model: gpt-4o-mini
+2025-03-29 23:05:20,895 - INFO - Number of PDF files: 10
+2025-03-29 23:05:20,896 - INFO - PDF files: [PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6617405.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4481301.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060046928.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4849389.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4843132.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US9352308.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6248831.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4374753.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060166812.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4148754.pdf')]
+2025-03-29 23:06:06,611 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:06:28,231 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:06:48,905 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:07:14,977 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:07:48,090 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:09:27,906 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:09:47,304 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:11:15,963 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:11:47,746 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:13:28,774 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:13:28,780 - INFO - Analyzing 10 PDF files using model: gpt-4o
+2025-03-29 23:13:28,785 - INFO - Using model: gpt-4o
+2025-03-29 23:13:28,786 - INFO - Number of PDF files: 10
+2025-03-29 23:13:28,787 - INFO - PDF files: [PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6617405.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4481301.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060046928.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4849389.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4843132.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US9352308.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US6248831.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4374753.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US20060166812.pdf'), PosixPath('/home/anatoly_kayda/Desktop/mipt/mipt_thesis/patent_files_for_experiments/US4148754.pdf')]
+2025-03-29 23:14:40,959 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:15:38,721 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:15:58,585 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:16:33,608 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:17:02,891 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:19:24,616 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:20:35,068 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:21:50,224 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:22:58,227 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 23:24:57,930 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
