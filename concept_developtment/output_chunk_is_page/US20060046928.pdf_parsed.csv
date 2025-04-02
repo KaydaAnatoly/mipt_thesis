@@ -1,0 +1,641 @@
+,file_name,file_path,page_number,1st_token,1st_logprob,2nd_token,2nd_logprob,text
+0,US20060046928.pdf,/home/anatoly_kayda/Desktop/mipt/data/novolen/US/US20060046928.pdf,1,NO,100.0, NO,0.0,"(19) United States US 20060046928A1 
+ (12) Patent Application Publication (10) Pub. No.: US 2006/0046928A1 
+ Klendworth et al. (43) Pub. Date: Mar. 2, 2006 
+ (54) ZIEGLER-NATTA CATALYST AND METHOD (52) U.S. C. . 502/103; 502/115; 502/116; FOR MAKING AND USING SAME 502/118 
+ (76) Inventors: Douglas D. Klendworth, West Chester, OH (US); Frank Wolf Spaether, 
+ Wachenheim (DE) 
+ Correspondence Address: 
+ DILWORTH & BARRESE, LLP 
+ 333 EARLE OVINGTON BLVD. 
+ UNIONDALE, NY 11553 (US) 
+ (21) Appl. No.: 10/925,618 
+ (22) Filed: Aug. 25, 2004 
+ Publication Classification 
+ (51) Int. Cl. 
+ B0LJ 31/00 (2006.01) (57) ABSTRACT 
+ A method for making magnesium-halide Supports of a Specified particle shape, average diameter and particle diam 
+ eter distribution comprises providing a non-aqueous Solu tion of a magnesium-halide containing Silica particles dis 
+ persed therein, and crystallizing the magnesium-halide 
+ about the Silica particles to provide the magnesium-halide 
+ Support, wherein the magnesium-halide Support has an approximately Spherical shape, an average particle diameter 
+ from about 2 to about 120 microns, and a particle diameter 
+ distribution from about 1 to about 200, are provided. The invention further provides methods for making catalysts and using Same in polymerization reactions. Catalyst Supports 
+ and catalysts are also provided. "
+1,US20060046928.pdf,/home/anatoly_kayda/Desktop/mipt/data/novolen/US/US20060046928.pdf,2,NO,100.0,YES,0.0,"Patent Application Publication Mar. 2, 2006 Sheet 1 of 3 US 2006/0046928A1 
+ G.   "
+2,US20060046928.pdf,/home/anatoly_kayda/Desktop/mipt/data/novolen/US/US20060046928.pdf,3,NO,100.0,YES,0.0,"Patent Application Publication Mar. 2, 2006 Sheet 2 of 3 US 2006/0046928A1 
+ O. 2   "
+3,US20060046928.pdf,/home/anatoly_kayda/Desktop/mipt/data/novolen/US/US20060046928.pdf,4,NO,100.0,YES,0.0,"US 2006/0046928A1 Mar. 2, 2006 Sheet 3 of 3 Patent Application Publication 
+ 3 O.   "
+4,US20060046928.pdf,/home/anatoly_kayda/Desktop/mipt/data/novolen/US/US20060046928.pdf,5,NO,99.93,YES,0.07,"US 2006/0046928A1 
+ ZEGLER-NATTA CATALYST AND METHOD FOR 
+ MAKING AND USING SAME 
+ FIELD OF THE INVENTION 
+ 0001. The present invention relates to catalysts, and par ticularly to Ziegler-Natta catalysts and to a method for making and using catalysts in polymerization reactions. 
+ BACKGROUND OF THE INVENTION 
+ 0002 Ziegler-Natta catalysts are advantageously used in 
+ olefin polymerization reactions to produce Stereoregulated 
+ linear polymers. It is known that Ziegler-Natta catalysts may 
+ be formed by coating a Silica Support material with a magnesium-halide compound, a transition metal compound, electron donor compound(s) and an organo-aluminum 
+ cocatalyst. The transition metal is an active catalytic ingre dient and the magnesium-halide compound may also be 
+ thought of as being active to the extent that it acts as a Synergist to increase the overall catalytic productivity of the 
+ transition metal. The electron donor compounds and organo 
+ aluminum cocatalyst are important because they enable the Ziegler-Natta catalyst to catalyze polymerization of isotactic 
+ polymers. The Silica material is inactive and does not increase polymerization reaction rates. 
+ 0003. It is known that silica-based Ziegler-Natta catalysts may be produced from high-porosity Silica particles in the 
+ diameter range of about 10-100 microns, which may be coated with 1 or more relatively thin layers of a magnesium halide compound to form a catalyst Support, which may be 
+ treated with a transition metal to form a catalyst. However, this type of catalyst generally comprises a high ratio of 
+ inactive Silica relative to the active ingredients. Further, the catalyst Supports may need to be mechanically treated to produce generally Spherical, or spheroidal, catalyst Supports 
+ of the appropriate diameter and particle diameter distribu tion, which will form catalyst particles of the appropriate 
+ diameter and particle diameter distribution and, thus, will facilitate efficient polymerization reactions. 
+ 0004 U.S. Pat. Nos. 4,293,673 and 4,376,062, both to Hamer et al., disclose methods for forming Silica based catalysts with very Small Silica particles, no larger than about 
+ 0.05 micron, which are mixed in a slurry to form solid agglomerations comprising a number of Silica particles 
+ mixed with active ingredients. While Hamer utilizes silica particles which are very Small, the resulting catalysts Still 
+ comprise at least 10 wt % inert silica material. This is 
+ undesirable because the higher the relative amount of inert Silica material the lower the Overall activity of the catalyst, and the higher the amount of catalyst residues in a polymer 
+ formed therewith. Thus, the production costs of the polymer, per weight unit of catalyst, is higher for catalysts containing 
+ relatively large amounts of inert material. Further, higher amounts of catalyst residues may detrimentally affect poly mer processing and/or the physical properties of products 
+ made with the polymer. 
+ 0005 Thus, there is a need for an efficient and reliable method for producing catalyst Support materials, and ulti mately catalysts, which comprise a relatively Small percent 
+ age of inactive materials, and which have a relatively Smooth spherical or spheroidal shape and Suitable average 
+ particle diameter and particle diameter distribution. Mar. 2, 2006 
+ SUMMARY OF THE INVENTION 
+ 0006 The invention comprises a method for making magnesium-halide Supports of a Specified particle shape, 
+ average diameter and particle diameter distribution, which comprises providing a non-aqueous Solution of a magne 
+ sium-halide containing Silica particles dispersed therein, and crystallizing the magnesium-halide about the Silica particles 
+ to provide the magnesium-halide Support, wherein the Sup port has an approximately spherical shape, an average 
+ particle diameter from about 10 to about 120 microns, and a particle diameter distribution from about 10 to about 150 
+ microns. The invention further comprises methods for mak ing catalysts and using Same in polymerization reactions. 
+ The invention further comprises catalyst Supports and cata lysts. 
+ 0007 Catalysts of the invention may include transition metal compounds, organo-aluminum co-catalysts and/or 
+ electron donors and may be useful for the polymerization of olefins to provide polymers having good morphology and 
+ bulk density. 
+ BRIEF DESCRIPTION OF THE DRAWINGS 
+ 0008 FIG. 1 is a photomicrograph of particles of 100% MgCl2 at 50x magnification; 
+ 0009 FIG. 2 is a photomicrograph of particles of 90% 
+ MgCl, and 10% CAB-O-SILE silica at 50x magnification; and 
+ 0010 FIG. 3 is a photomicrograph of particles of 98% MgCl, and 2% CAB-O-SILO silica at 50x magnification. 
+ DETAILED DESCRIPTION OF PREFERRED 
+ EMBODIMENTS 
+ 0011. The present invention generally concerns Ziegler Natta catalysts and processes for making and using Same, 
+ which may include coating a Silica Support material, acting as a Seeding agent, with a magnesium compound to form a 
+ Solid catalyst Support. The catalyst Support may be reacted 
+ with a transition metal, an internal electron donor, an organo-aluminum co-catalyst and an external electron donor 
+ to form a catalyst Suitable for, for example, various poly 
+ merization reactions. 
+ 0012. In a preferred process, a Silica Seeding agent is 
+ dispersed in a non-polar, non-ionic oil, for example, mineral 
+ oil, paraffin oil or Silicone oil, in a mixing apparatus Such as a simple paddle Stirrer operating at a few hundred rpms or 
+ a Ultra-Turrax(RT 50 Homogenizer with stirring speeds up to 10,000 rpms. Preferably, the ratio of silica seeding agent 
+ to oil is in the range of about 0.25 grams per liter to about 25.0 grams per liter, more preferably about 1.0 gram per liter 
+ to about 10.0 grams per liter. The Silica Seeding agent is 
+ described in more detail below. 
+ 0013 Anhydrous magnesium halide compound can be 
+ added to the dispersion of silica in oil, followed by addition 
+ of an alkanol Solvent Such as anhydrous ethanol, methanol, or 2-ethyl-1-hexanol. Alternatively, anhydrous ethanol, 
+ methanol or 2-ethyl-1-hexanol can be added to an anhydrous 
+ (i.e., less than about 0.5 wt % HO) magnesium-halide compound to form a Soluble complex, as described below. 
+ About 0.01 wt % to about 10.0 wt %, more preferably from 
+ about 0.1 wt % to about 5.0 wt %, and still more preferably "
+5,US20060046928.pdf,/home/anatoly_kayda/Desktop/mipt/data/novolen/US/US20060046928.pdf,6,YES,99.97,NO,0.03,"US 2006/0046928A1 
+ from about 0.5 wt % to about 3.0 wt % of the silica seeding agent is used relative to the magnesium-halide compound. 
+ Generally, a higher ratio of magnesium-halide to Silica 
+ Seeding agent in the mixture results in a higher ratio of magnesium-halide to Silica in the catalyst Support formed and, consequently, a larger catalyst Support is expected to 
+ form because more magnesium-halide crystalizes onto the Silica Seeding agent. 
+ 0.014. The solvent is added in amounts from about 2 to 20 times, preferably about 6 times, the molar ratio of the magnesium-halide compound to facilitate the liquefying of 
+ the magnesium-halide compound at a lower temperature. 
+ U.S. Pat. No. 4,421,674 to Invernizzi et al. teaches, for 
+ example, that when the mole ratio of ethanol (“EtOH') to MgCl, is 102, the complex liquefies at 60° C.; at a mole ratio of EtOH to MgCl2 of 7.75 the complex liquefies at 80° C.; 
+ at a mole ratio of EtOH to MgCl, of 6.51 the complex liquefies at 90° C.; and at a mole ratio of EtOH to MgCl, of 5.43 the complex liquefies at 100° C. The mixture is initially translucent due to the Suspension of the magnesium-halide 
+ compound and the Silica Seeding agent. The mixture is 
+ heated to about 60° C. to about 140°C., preferably about 80° 
+ C. to about 120° C., until the solvent begins to reflux and the magnesium-halide compound goes into Solution, whereupon 
+ the mixture becomes transparent, and the temperature is 
+ maintained at the reflux temperature for about 0.25 hours to about 3.0 hours, preferably about 1.0 hour to about 2.0 hours, preferably with continuous stirring. It is possible to 
+ form the mixture without either the oil or the Solvent, or by mixing the ingredients in a different order, but the above 
+ described mixing operation has been shown to result in a well-dispersed mixture. 
+ 0015 The clear mixture, which includes a MgCl2.xEtOH complex (where X is an integer from 1-20), is rapidly transferred to a Second mixing apparatus containing a pre 
+ chilled hydrocarbon Solvent, Such as heptane, hexane, cyclo hexane, or other aliphatic or cycloaliphatic hydrocarbon 
+ which is miscible in the oil and which will not freeze at the 
+ temperatures necessary for the Solidification of the MgCl2.xEtOH complex. The hydrocarbon solvent is pre 
+ chilled, for example, to between ice (0° C.) and dry ice/ isopropanol temperatures (i.e., about -70° C. to -90° C.). The rapid temperature decrease causes almost all of the magnesium-halide compound to precipitate out of Solution 
+ and crystallize onto the Silica Seeding agent, thus coating the Silica Seeding agent to form a catalyst Support. The catalyst 
+ Support particles preferably include less than 10 wt % Silica, 
+ preferably no more than 5 wt % silica, and more preferably 
+ no more than 3 wt % Silica. 
+ 0016. After about 0.5 to 2 hours, preferably about 1 hour, 
+ the mixture is allowed to warm to room temperature and it is filtered. Approximately Spherical and/or Spheroidal Solid 
+ catalyst Support particles, each comprising at least one Silica Seeding agent with magnesium-halide crystals attached 
+ thereto, are collected and washed Several times with more hydrocarbon Solvent, until the hydrocarbon Solvent appears 
+ to be colorless, and are dried (e.g., vacuum dried) in a rotary evaporator at about 40 C. to 80 C., preferably at about 60 
+ C., for 1 to 3 hours, preferably for about 2 hours. The term “approximately Spherical' or “approximately Spheroidal' 
+ means that all points on the Surface of the particle are within 
+ the range of radius r to 2r wherein r is the minimum radial 
+ distance between the center of the particle and the closest Mar. 2, 2006 
+ point thereto on the Surface of the particle. The magnesium halide compound may alternately be crystallized onto the 
+ Silica Seeding agent with known Spray drying techniqueS or 
+ by gradually evaporating the Solvent in which it was origi 
+ nally dissolved. 
+ 0017 Next, the catalyst support is slowly added to about 
+ 10 to 50 moles of a transition metal compound for each mole of magnesium in the magnesium-halide compound at about 
+ -30 to 50 C., and the temperature of this mixture is raised 
+ to about 20 to 80°C., preferably about 30-60° C. An internal electron donor is added and the temperature is raised, generally with stirring, to about 80 to 130 C., preferably 
+ 100-110° C., and is kept at that level for about 1 to 3 hours, preferably about 2 hours. 
+ 0018. The internal electron donor compound, in general, 
+ is used in an amount from about 0.05 to about 2.0 moles, 
+ preferably about 0.1 to about 0.5 mole, for each mole of magnesium in the magnesium-halide compound. 
+ 0019. The result is a mixture comprising solid catalyst 
+ particles and unreacted transition metal compound and inter 
+ nal electron donor compound. 
+ 0020. The solid catalyst particles are filtered out and, 
+ preferably, extracted for about 1 to 3 hours, preferably about 
+ 2 hours, at about 110 to 140 C., more preferably about 125 C. with a mixture of transition metal compound (about 5 to 30 wt %, preferably about 10 wt %), and an inert solvent, Such as a C-C alkylbenzene, preferably ethylbenzene 
+ (about 70 to 85 wt %, preferably about 90 wt %) in a known “Soxhlet” extraction type arrangement. This extraction treat ment enhances catalyst activity and Stereospecificity. Alter 
+ natively, the Solid catalyst may receive any number of other 
+ known extraction treatments, which may, but need not, include a transition metal treatment. Alternatively, the cata lyst could simply be boiled in a Solution comprising a 
+ transition metal compound with or without an inert Solvent, 
+ i.e., a Solvent which will not react with the transition metal 
+ compound. U.S. Pat. No. 4,745,164 to Schweier et al. and 
+ U.S. Pat. No. 6,034,023 to Kersting et al., which are incor porated by reference herein, teach examples of extraction 
+ methods which may be utilized in the present invention. 
+ 0021. The Solid catalyst may be recovered by filtration, 
+ washed with an inert Solvent, Such as heptane, hexane, cyclohexane or other aliphatic or cycloaliphatic hydrocar 
+ bon, dried by draining off transition metal compound and 
+ Solvent, washed a Second time with the inert Solvent, and 
+ dried. 
+ 0022. The solid catalyst Support particles and/or catalyst 
+ particles preferably comprise about 0.01 wt % to about 10 wt 
+ % silica, more preferably about 0.1 wt % to about 5 wt % 
+ Silica. 
+ 0023 The solid catalyst Support particles and/or catalyst particles preferably have a weight percent ratio of Silica to 
+ magnesium-halide compound in the range of about 1:20 to 
+ 1:3, preferably from about 1:10 to 1:4. 
+ 0024. The catalyst may preferably be treated with an organo-aluminum co-catalyst and an external electron donor or other Stereoregulating agent to form a Ziegler-Natta 
+ catalyst, which may be used, for example, in polymerization 
+ reactions. Examples of external electron donor compounds 
+ which may be used in the catalytic System of the invention "
+6,US20060046928.pdf,/home/anatoly_kayda/Desktop/mipt/data/novolen/US/US20060046928.pdf,7,NO,100.0, NO,0.0,"US 2006/0046928A1 
+ include mono- and polyfunctional carboxylic acids, car boxylic anhydrides and carboxylic esters, and ketones, 
+ ethers, alcohols, lactones as well as organic phosphorus and 
+ Silicon compounds. Also, a mixture of two or more external 
+ electron donor compounds can be used. The external elec 
+ tron donor compound and the internal electron donor com pound used in the preparation of the Solid catalyst compo 
+ nent may be the same or different. Preferred external electron donor compounds are disclosed below. 
+ 0.025 In such cases the organo-aluminum co-catalyst and 
+ the external electron donor may be contacted with the Solid catalyst Separately, in any order, or together, preferably at a 
+ temperature from about 0 to 200 C., more preferably from 
+ about 20 to 90° C., and preferably at a pressure of about 1 
+ to 100 bar, more preferably from about 1 to 40 bar. 
+ 0.026 Preferably, the organo-aluminum co-catalyst is 
+ added in Such an amount that the molar ratio of the alumi 
+ num co-catalyst to the transition metal in the Solid catalyst 
+ is from about 10:1 to about 800:1, more preferably from 
+ about 20:1 to about 200:1. 
+ 0027. The external electron donor is used with the cata lyst in amounts ranging from about 1 to 100 moles, prefer 
+ ably 10 to 30 moles, for each mole of transition metal in the catalyst. Generally, it is highly preferred that an external 
+ electron donor, with or without the organo-aluminum co 
+ catalyst, be used in order to maintain a high level of Stereospecificity in polymers produced with the catalysts of 
+ the invention. 
+ 0028. A preferred silica seeding agent is a microspheroi 
+ dal silica (SiO2), for example, a fumed Silica Such as CAB-O-SIL(R-5 (Cabot Corporation; Midland, Mich.). Other Silica Seeding agents may include, for example, Aero 
+ sile) fumed silica, available from USA Midwest Degussa Corporation, 3500 Embassy Parkway Ste. 100, Akron Ohio 
+ 4.4333. 
+ 0029. The silica seeding agent is characterized by its relatively Small average particle diameter, i.e., preferably 
+ about 0.005-10 microns, more preferably about 0.001-5.0 microns, most preferably from about 0.01 microns to about 1.0 micron. The Silica Seeding agent has low porosity 
+ because of its lack of, or Small quantity of, pores. That is, it 
+ has a porosity of less than about 0.5 cc/gram as measured by nitrogen adsorption, which indicates that the Silica particles 
+ have relatively Smooth Surfaces. The Silica Seeding agent particles have relatively uniform spherical or spheroidal shape, i.e., approximately Spherical shape, and preferably 
+ having a radius which does not vary by more than about 20% from the center to any point on the Surface of the particle. The particles of the Silica Seeding agent have a relatively 
+ small particle diameter distribution, such that 50% of the Silica particles have particle diameters ranging from about 
+ 0.05 microns to about 0.5 microns. 
+ 0030 The small particle diameter of the silica seeding agent is significant because the resulting catalyst will ulti mately comprise a relatively Small percentage, i.e., less than 
+ 10 wt %, of inert silica material as compared to the total weight of the catalyst Support. Thus, the catalyst will operate 
+ more efficiently because a relatively larger portion of the 
+ Solid catalyst will comprise active catalytic material, i.e., the transition metal and the magnesium-halide Synergist. In preferred catalyst Supports the Silica component will be leSS Mar. 2, 2006 
+ than 10 wt % of the total catalyst Support weight, more 
+ preferably about 0.1 wt % to about 5 wt %, and yet more 
+ preferably about 0.5 wt % to about 3.0 wt % of the catalyst Support formed by the above-described processes. Since the Silica Seeding agent provides a Surface upon which the magnesium-halide compound will crystallize, the Smooth 
+ approximately spherical shape and Small particle diameter 
+ distribution of the Silica Seeding agent will result in catalyst Support particles, and ultimately catalyst particles, with a 
+ relatively Smooth approximately spherical shape and Small 
+ particle diameter distribution. These qualities will contribute to an efficient polymerization process with a relatively Small 
+ amount of fines in polymers produced in reactions con 
+ ducted with the catalysts of the invention. This is an advan tage over other catalysts which, for example, may need to undergo various complex and expensive processes in order to acquire an approximately Spherical shape and/or accept 
+ able particle diameter and particle diameter distribution. 
+ 0031. The diameters of the catalyst support particles will 
+ range from about 5-150 microns, more preferably from 
+ about 20-60 microns, most preferably from about 20-40 microns. The particle size distribution of the catalyst Support particles is Such that 50% of the catalyst Support particles 
+ have particle diameters ranging from about 20 microns to 
+ about 60 microns. 
+ 0032. The catalyst particles will have diameters which are about 20%-50% smaller. For example, a support particle 
+ with a 70 micron diameter may result in a catalyst particle 
+ with a 50-60 micron diameter. The reason for this reduction 
+ in Size is as follows. It is generally known that ethanol dissolves the MgCl2 by first Swelling the structure of the solid MgCl. (MgCl2 has a layered structure. Ethanol occu pies the interstitial spaces between the MgCl2 layers.) AS 
+ more alcohol is added and/or the material is heated, this Structure continues to Swell or expand until the MgCl, layers Segregate and the MgCloEtOH complex becomes a liquid. 
+ When this complex is reacted with TiCl, the removal of 
+ ethanol causes the Structure and thus the particle to Shrink or diminish in size. Thus, the catalyst Supports and catalysts of 
+ the invention are notable for having relatively thick layers of active ingredients, referring to both the Synergistic magne 
+ sium-halide layer and active transition metal layer, on rela tively Small Silica particles. Again, this results in the overall percentage of inactive Silica delivered to a polymerization 
+ reactor to be lower than in other known processes. Conse quently, overall efficiency in the polymerization reactor will be higher. 
+ 0033 Preferably, catalyst Support particles and catalyst 
+ particles of the invention will each include one Silica Seed particle, or a Small group of Silica Seed particles comprising 
+ less than 10% of the total catalyst Support weight. In contrast 
+ to the present invention, other known catalysts typically comprise relatively large Silica particles or agglomerations 
+ of a number of very Small Silica particles within each catalyst Support particle Such that there is a relatively larger 
+ amount (e.g., up to 50 wt %) of inert Silica in the catalyst particle. 
+ 0034. The magnesium compound is an inorganic solid 
+ magnesium-halide compound containing at least one halo 
+ gen atom, Such as magnesium chloride, magnesium bromide 
+ and magnesium iodide, as well as mixed halogen oxides or hydroxides like chloromagnesium hydroxide, bromomagne "
+7,US20060046928.pdf,/home/anatoly_kayda/Desktop/mipt/data/novolen/US/US20060046928.pdf,8,NO,100.0, NO,0.0,"US 2006/0046928A1 
+ sium hydroxide and iodomagnesium hydroxide. Among 
+ these compounds the magnesium dihalides corresponding to 
+ the formula MgX are preferred wherein X is a halogen. Especially preferred is magnesium chloride (MgCl). Pref 
+ erably, the inorganic Solid magnesium-halide compound is 
+ in a Substantially anhydrous condition. 
+ 0.035 Transition metal compounds for treating the cata 
+ lyst Support are preferably titanium or Vanadium com 
+ pounds. Titanium compounds useful in preparing the Solid 
+ catalyst component include the halogenides of tri- or tet 
+ ravalent titanium. Titanium alkoxy halogenide compounds 
+ and mixtures of two or more titanium compounds are also contemplated. Examples of Suitable titanium compounds 
+ include TiBr, TiBri, TiCl, TiCl, Ti(OCH)Cl. Ti(OCH3)Cls, Ti(O-iso-CH2)C1, Ti(O-n-CHg)Cls, 
+ Ti(OCH)Br, Ti(O-n-CH-)Br, Ti(OCH) Cl, 
+ Ti(OCH3)Cl., Ti(O-n-CH3)2Cl2, Ti(OCH3)Br, 
+ Ti(OCH) Cl, Ti(OCH) Cl, Ti(O-n-CHo). Cl, Ti(OCH), Br, Ti(OCH), Ti(OCH), or Ti(O-n-CHo). 
+ Preferred titanium compounds include those wherein the 
+ halogen is chlorine. Also preferred are those titanium halo 
+ genides that in addition to the titanium contain only halogen, 
+ and of these the titanium chlorides, and in particular titanium 
+ tetrachloride, are preferred. 
+ 0.036 Vanadium compounds useful in the preparation of 
+ the Solid catalytic component of the catalytic System 
+ described herein include the Vanadium halogenides, the 
+ Vanadium oxyhalogenides, the Vanadium alkoxides and 
+ Vanadium acetylacetonate. Preferred Vanadium compounds 
+ are those having oxidation Stages 3 to 5. 
+ 0037. The function of the internal and external electron 
+ donors, e.g., Lewis bases, is two-fold. One function is to block “coordinately unsaturated' Sites on the magnesium 
+ compound So that the active site, the transition metal com 
+ pound, will not attach to those Sites. The other function is to 
+ reduce the “coordinately unsaturated” environment around 
+ the bound active site in order to improve its Stereospecificity. 
+ Both results are the Same, i.e. the electron donors improve the isotacticity or Stereoregularity of polymers produced 
+ with the catalyst. The reason for this is that a “coordinately 
+ unsaturated' Site has a lower energy barrier for binding 
+ propylene in various configurations, i.e., it can bond to 
+ propylene in multiple ways, leading to a reduction in poly 
+ mer isotacticity and Subsequently lower polymer crystallin 
+ ity. Lower polymer crystallinity results in lower polymer melting points and increased hydrocarbon (e.g., xylene, 
+ decalin, or heptane) Solubles. A “coordinatively Saturated” Site will predominately bond to the active site in only one way. As a result, a coordinatively Saturated Site produces 
+ uniform or isotactic polypropylene. 
+ 0.038 Internal electron donor compounds which may be used in the preparation of the Solid catalytic component 
+ include, at least, mono or polyfunctional carboxylic acids, carboxylic anhydrides, or carboxylic esters, and also 
+ ketones, ethers, alcohols, lactones or organophosphorous or organosilicon compounds. 
+ 0.039 Preferred internal electron donor compounds included carboxylic acid derivatives and, in particular, phthalic acid derivatives having the general formula (I): Mar. 2, 2006 
+ (I) 
+ wherein X and Y each represent a chlorine or bromine atom or a C-Co alkoxy group, or X and Y taken together represent an oxygen atom forming an anhydride function. 
+ Particularly preferred internal electron donor compounds are 
+ phthalic esters of formula (I) wherein X and Y each are a C-Cs alkoxy group, such as a methoxy, ethoxy, n-propyloxy, isopropyloxy, n-butyloxy, Sec-butyloxy, or tert-butyloxy 
+ group. Examples of preferred phthalic esters include diethyl phthalate, di-n-butyl phthalate, di-isobutyl phthalate, di-n- pentyl phthalate, di-n-hexyl phthalate, di-n-heptyl phthalate, 
+ di-n-octyl phthalate or di-2-ethylhexyl phthalate. 
+ 0040. Further examples of preferred internal electron 
+ donor compounds include diesters of 3- or 4-membered, optionally Substituted cycloalkane 1,2-dicarboxylic acids, as 
+ well as monoesters of Substituted benzophenone 2-carboxy 
+ lic acids or Substituted benzophenone 3-carboxylic acids. AS hydroxy compounds in the esterfication reaction for synthe 
+ sis of these esters, alkanols Such as C-C or Cs-C7 cycloal kanols (optionally Substituted with one or more C-C alkyl groups), as well as C-Co phenols, can be used. A particu larly preferred internal electron donor is di-alkyl carboxylic 
+ acid ester. 
+ 0041. A further group of suitable internal electron donor compounds are the non-Substituted and Substituted (C-Co alkyl)-1,3-propane diethers and derivatives of the group of 
+ Succinates. 
+ 0042. Also, mixtures of two or more internal electron donor compounds may be used in the preparation of the Solid catalytic component of the invention. 
+ 0043. Examples of external electron donor compounds 
+ which may be used in the catalytic System of the invention include mono- and polyfunctional carboxylic acids, car 
+ boxylic anhydrides and carboxylic esters, and ketones, 
+ ethers, alcohols, lactones as well as organic phosphorus and 
+ Silicon compounds. Also, a mixture of two or more external electron donor compounds can be used. The external elec 
+ tron donor compound and the internal electron donor com pound used in the preparation of the Solid catalyst compo 
+ nent may be the same or different. However, it is generally 
+ preferred that the internal and external electron donors be 
+ different because the desired internal electron donor is one 
+ which will block sites that lead to “coordinative unsatura 
+ tion” or that transform “coordinatively unsaturated” sites 
+ into “coordinatively Saturated' Sites. And yet these internal 
+ electron donors do not react with TiCl. In the case of 
+ external electron donors, the desired molecule is one that 
+ will have the same affect on “coordinative Saturation', but will not react with the aluminum alkyl cocatalyst. A mol 
+ ecule that yields “coordinative unsaturation” yet does not 
+ react with either TiCl, and AlR would be ideal. However, "
+8,US20060046928.pdf,/home/anatoly_kayda/Desktop/mipt/data/novolen/US/US20060046928.pdf,9,YES,100.0,**,0.0,"US 2006/0046928A1 
+ due to the difficulty in finding Such a Single Substance, most polypropylene catalysts employ two separate Substances for 
+ their internal and external electron donors. 
+ 0044 Preferred external electron donor compounds include the organosilicon compounds of the general formula 
+ (II): 
+ R""Si(OR), (II) 
+ 0045 wherein each R' may be the same or different and represents a C-Coalkyl group, a 5- to 7-membered cyclic 
+ alkyl group optionally Substituted with C-C alkyl, a C-C1s aryl group or a Co-C1s aryl-C-Cio alkyl group; and each R may be the same or different and represents a C-Coalkyl group; and n is an integer equal to 1, 2 or 3. 
+ 0046 Preferred compounds of formula (II) are diisopro pyldimethoxysilane, isobutylisopropyl-dimethoxysilane, 
+ disobutyldimethoxysilane, dicyclopentyl-dimethoxysilane, cyclohexylmethyldimethoxysilane, dicyclohexyldimethoX 
+ ySilane, isopropyl-tert-butyldimethoxysilane, isopropyl-Sec 
+ butyldimethoxysilane, and isobutyl-Sec-butyldimethoxysi 
+ lane. 
+ 0047. Other stereoregulating agents which may be sub 
+ Stituted for the external electron donor include alcohols, phenols, ketones, aldehydes, carboxylic acids, organic or 
+ inorganic acid esters, ethers, acid amides and acid anhy 
+ drides, and nitrogen-containing electron donors Such as 
+ ammonia, amines, 
+ 0.048 nitriles and isocyanates. Specific examples include 
+ alcohols having 1 to 18 carbon atoms which may have an alkyl group Such as methanol, ethanol, propanol, pentanol, 
+ hexanol, octanol, 2-ethylhexanol, dodecanol, octadecyl 
+ alcohol, benzyl alcohol, phenylethyl alcohol, cumyl alcohol and isopropylbenzyl alcohol; phenols having 6 to 25 carbon 
+ atoms Such as phenol, creSol, Xylenol, ethylphenol, propy lphenol, cumylphenol, nonylphenol and naphthol, ketones 
+ having 3 to 15 carbon atoms Such as acetone, methyl ethyl ketone, methyl isobutyl ketone, acetophenone and ben 
+ Zophenone; aldehydes having 2 to 15 carbon atoms Such as acetaldehyde, propionaldehyde, octylaldehyde, benzalde 
+ hyde, tolualdehyde and naphthaldehyde; organic acid esters 
+ having 2 to 30 carbon atoms Such as methyl formate, ethyl acetate, Vinyl acetate, propyl acetate, octyl acetate, cyclo hexyl acetate, ethyl propionate, methylbutyrate, ethyl Val 
+ erate, ethyl Stearate, methyl chloroacetate, ethyl dichloroac etate, methyl methacrylate, ethylcrotonate, dibutyl maleate, diethylbutylmalonate, diethyl dibutylmalonate, ethyl cyclo hexanecarboxylate, diethyl 12-cyclohexane-dicarboxylate, 
+ di-2-ethylhexyl 12-cyclohexanedicarboxylate, methylben 
+ Zoate, ethylbenzoate, propylbenzoate, butylbenzoate, octyl 
+ benzoate, cyclohexyl benzoate, phenyl benzoate, benzyl 
+ benzoate, methyl toluate, ethyl toluate, amyl toluate, ethyl ethylbenzoate, methyl anisate, ethyl anisate, ethyl ethoxy 
+ benzoate, dimethyl phthalate, diethyl phthalate, dibutyl phthalate, dioctyl phthalate, gamma-butyrolactone, delta 
+ Valerolactone, coumarin, phthalide and ethylene carbonate; inorganic acid esterS Such as ethyl Silicate, butyl Silicate, Vinyltriethoxysilane, phenyltriethoxysilane and diphenyldi 
+ ethoxysilane; acid halides having 2 to 15 carbon atoms Such 
+ as acetyl chloride, benzoyl chloride, tolyl chloride, anisoyl 
+ chloride and phthaloyl dichloride; ethers having 2 to 20 carbon atoms Such as methyl ether, ethyl ether, isopropyl 
+ ether, butyl ether, amyl ether, tetrahydrofuran, anisole and Mar. 2, 2006 
+ diphenyl ether; acid amides Such as acetamide, benzamide and toluamide; acid anhydrides Such as benzoic anhydride and phthalic anhydride, amines Such as methylamine, ethy lamine, diethylamine, tributylamine, piperidine, tribenzy 
+ lamine, aniline, pyridine, picoline and tetramethylethylene 
+ diamine; and nitriles Such as acetonitrile, benzonitrile and 
+ tolunitrile. 
+ 0049 Polymerization is initiated by formation of a metal 
+ carbon bond (Ti-C). The function of the aluminum alkyl is to alkylate the TiCl. This can be accomplished in a variety 
+ of ways: by addition of aluminum alkyl to the reactor Separate from the catalyst, by premixing the aluminum alkyl 
+ with the catalyst prior to addition to the reactor, or by 
+ premixing of the aluminum alkyl and external electron donor prior to mixing with the catalyst. 
+ 0050 Examples of Suitable organo-aluminum co-cata 
+ lysts include aluminum trialkyls (AIR) and derivatives thereof wherein an alkyl group is Substituted by an alkoxy 
+ group or a halogen atom, e.g. chlorine or bromine atom. The alkyl groups may be the same or different. The alkyl groups 
+ may be linear or branched chain alkyl groups. Preferred trialkylaluminum compounds are those wherein the alkyl 
+ groups each have 1 to 8 C-atoms, Such as trimethylalumi num, triethylaluminum, tri-isobutylaluminum, trioctylalu 
+ minum or methyldiethyl aluminum. 
+ 0051. The equipment used in the processes of the inven 
+ tion are well known in the art and, generally, may be 
+ substituted for by those familiar with catalysts and their production. Reactor Systems can include high pressure, 
+ Stainless Steel vessels, low preSSure, glass vessels, CSTR 
+ vessels, loop reactors, Vertical Stirred-bed gas phase reac 
+ tors, horizontal Stirred-bed gas phase reactors, Vertical, 
+ fluid-bed gas phase reactors, and the like. 
+ 0052 The catalysts of the present invention were tested for polymerization performance using a 2-liter, jacketed, 
+ stainless steel reactor available from Pressure Products 
+ Industries, Inc., 900 Louis Drive, Warminster, Pa. 18974. Liquid propylene was metered in using a high preSSure Site-glass. Hydrogen was added by measuring the preSSure 
+ differential across a 300 ml vessel. 
+ 0053 A test sample of a preferred catalyst of the inven 
+ tion was prepared and tested as follows: 
+ Catalyst Preparation Procedure 
+ 0054) 50 milligrams of CAB-O-SIL(R) was dispersed in 
+ about 250 ml of mineral oil in a flask by stirring. Subse quently, 10 grams of anhydrous MgCl, followed by 6 equivalents of anhydrous ethanol (per equivalent of magne 
+ sium) was added. The mixture was heated until the ethanol began to reflux. The mixture was maintained at this tem perature for about 1 hour with continuous Stirring. 
+ 0055. The contents of the flask were then rapidly trans ferred to a Second flask containing 1 liter of heptane pre chilled to dry icefisopropanol temperatures. After an hour 
+ the temperature of the contents of the Second flask were 
+ allowed to warm to room temperature and were then filtered. Approximately Spherical Solid catalyst Support particles 
+ were collected and washed Several times with heptane, until the Washings appeared to be colorleSS, and then Vacuum dried in a rotary evaporator at 60° C. for about 2 hours. "
+9,US20060046928.pdf,/home/anatoly_kayda/Desktop/mipt/data/novolen/US/US20060046928.pdf,10,YES,100.0, YES,0.0,"US 2006/0046928A1 
+ 0056 Next, the solid catalyst Support particles were 
+ added slowly to a third flask containing 200 ml of neat TiCl, 
+ which had been pre-cooled to about 0° C. After the tem perature was raised to about 50-60 C., 1.5 ml of di-n- butylphthalate, a di-alkylcarboxylic acid ester, as an internal 
+ electron donor, was added. The contents of the third flask were heated to 100-110° C. and held at that temperature for 
+ about 2 hours. 
+ 0057 The heat was removed, and solid catalyst particles 
+ and liquid from the third flask were transferred to a Soxlet extractor. The liquid, which comprised unreacted TiCl, and 
+ internal electron donor compound, was removed by filtering through a porous Sintered glass filter that is part of the 
+ reaction vessel. The remaining Solid catalyst particles were 
+ then extracted for about two hours at 125 C. with a mixture 
+ of 90% ethylbenzene and 10% TiCl. This TiCl, treatment greatly enhances the performance of the catalyst. 
+ 0.058 At the conclusion of the extraction, the Solid cata lyst particles were dried by draining off residual TiCland ethylbenzene, Washing with heptane, and vacuum drying. 
+ The polymerization productivity of the catalyst was then 
+ tested using the general polymerization procedure described 
+ below. 
+ Polymerization Testing Procedure 
+ 0059) A quantity of 4 ml of 25 wt % triethylaluminum 
+ (TEAl) was added to a leg of a two-leg stainless Steel injector, along with 2 ml of a 0.1 molar Solution of cyclo hexylmethyl dimethoxysilane, as an external electron donor. 
+ The aluminum alkyl activates the catalyst by replacing one 
+ of the chlorides on the titanium with an alkyl group. There after, alkylation can propagate continued insertion of pro pylene groups during a polymerization reaction. The exter 
+ nal electron donor is important for controlling the nature of the propylene insertion, but it is not necessary for Starting or maintaining propylene insertion. 
+ 0060 20 Milligrams of a mixture containing 2 parts anhydrous MgCl2 and 1 part of the experimental catalyst 
+ prepared above was added to another leg of the injector. The experimental catalyst was diluted in this manner to facilitate 
+ more accurate measurement of Small quantities of catalyst 
+ tested in this example. The injector was then attached to the 
+ reactor So that the contents of the injector legs could be charged to the reactor under inert atmospheric conditions. 
+ 0061 A polymerization reaction vessel comprising a 2-li 
+ ter, Stainless Steel, jacketed pressure vessel, was purged of 
+ moisture and oxygen by heating to at least 100° C. while a 
+ Slow bleed of dry nitrogen was maintained through the 
+ vessel. The TEAl and external electron donor were added to 
+ the reactor by flushing the appropriate injector leg with 
+ 600-800 ml of propylene. The catalyst was then added in a 
+ similar fashion by flushing the other leg of the injector with 200-400 ml of liquid propylene. 100 delta-psig (as measured 
+ across a 300 ml vessel) of hydrogen was added to the reactor. 
+ The vessel was sealed and heated to about 70° C. Once the 
+ temperature was at about 70° C., the polymerization reaction 
+ was allowed to continue for one hour. The polymerization reaction was then Stopped by venting the residual propylene. 
+ The polymerization reaction vessel was opened and polymer 
+ was removed. 
+ 0.062 Catalyst productivity was measured by dividing the grams of polymer produced by the milligrams of active 
+ catalyst initially charged to the reactor. Mar. 2, 2006 
+ 0063. The catalysts of the invention may be advanta geously used in the polymerization of alk-1-enes. Suitable 
+ alk-1-enes include linear or branches C-Co alkenes, in particular linear C-C alk-1-enes Such as ethylene, propy 
+ lene, but-1-ene, pent-1-ene, hex-1-ene, hept-1-ene, Oct-1- 
+ ene non-1-ene, dec-1-ene or 4-methylpent-1-ene. Mixtures 
+ of these alk-1-enes may be polymerized as well. 
+ 0064. The catalysts of the invention are, in particular, excellent catalytic Systems for use in the production of propylene polymers, both homopolymers of propylene as 
+ well as copolymers of propylene and one or more further 
+ alk-1-enes having up to 10 carbon atoms. 
+ 0065. The term copolymers as used herein also refers to copolymers wherein the further alk-1-ene having up to 10 carbon atoms is incorporated randomly. In these copolymers 
+ the comonomer content is generally less than about 15% by weight. The copolymerS may also be in the form of So-called block or impact copolymers, which comprise at least a 
+ matrix of a propylene homopolymer or propylene random 
+ copolymer containing less than 15% by weight of a further 
+ alk-1-ene having up to 10 carbon atoms and a Soft phase of a propylene copolymer containing about 15% to about 80% 
+ by weight of further alk-1-enes having up to 10 C-atoms. 
+ Also mixtures of comonomers are contemplated, resulting in, e.g., terpolymers of propylene. 
+ 0066. The production of the propylene polymers may be 
+ carried out in any common reactor Suitable for the polymer 
+ ization of alk-1-enes, either batchwise or, preferably, con tinuously, i.e., in Solution (bulk phase), as Suspension poly merization or as gas phase polymerization. Examples of 
+ Suitable reactors include continuously operated Stirred reac 
+ tors, loop reactors, fluid bed reactors, or horizontal or 
+ vertical stirred powder bed reactors. It will be understood that the polymerization may be carried out in a Series of consecutively coupled reactors. The reaction time depends 
+ on the chosen reaction conditions. In general the reaction time is from about 0.2 hours to about 10 hours, usually from 
+ about 0.5 hours to 5.0 hours. 
+ 0067. In general the polymerization is carried out at a 
+ temperature in the range of from about 20° C. to about 150 C., preferably from about 50° C. to about 120° C., and more preferably from about 60° C. to about 90° C., and a pressure 
+ in the range of from about 1 bar to about 100 bar, preferably 
+ from about 15 bar to about 40 bar, and more preferably from 
+ about 20 bar to 35 bar. 
+ 0068 The molecular weight of the so produced polymers 
+ may be controlled and adjusted over a wide range by adding 
+ polymer chain transfer or termination inducing agents as commonly used in the art of polymerization, Such as hydro 
+ gen. In addition an inert Solvent, Such as toluene or hexane, or an inert gas, Such as nitrogen or argon, and Smaller amounts of a powdered polymer, e.g., polypropylene pow 
+ der, may be added. 
+ 0069. The weight, i.e., (average molecular weights) of the propylene polymers produced by using the catalytic System 
+ of the invention, in general, are in the range of from about 10,000 g/mole to 1,000,000 g/mole and the melt flow rates 
+ are in the range of from about 0.1 to about 100 g/10 min, 
+ preferably from about 0.5 to about 50 g/10 min. The melt flow rate corresponds to the amount which is pressed within 
+ 10 minutes from a test instrument in accordance with ISO "
+10,US20060046928.pdf,/home/anatoly_kayda/Desktop/mipt/data/novolen/US/US20060046928.pdf,11,NO,100.0,YES,0.0,"US 2006/0046928A1 
+ 1133 at a temperature of 230 C. and under a load of 2.06 kg. Certain applications might require different molecular 
+ weights than those mentioned above and are contemplated to be included among the polymers which are produced with 
+ the catalysts of the invention. 
+ 0070 The catalytic systems of the invention enable the polymerization of alk-1-enes to produce polymers having a good morphology and a high bulk density when compared 
+ with the prior art catalytic Systems. In addition, the catalytic 
+ Systems of the invention have an increased productivity. 
+ 0071. Due to their good mechanical properties the poly merS obtainable by using the Solid catalytic component of 
+ the present invention, and in particular the propylene homopolymerS or the copolymers of propylene with one or 
+ more further alk-1-enes having up to 10 carbon atoms, can be used advantageously for the production of fibers or moldings, and especially for the production of films. 
+ 0.072 Ziegler-Natta catalysts are the subject of continued improvements, because their properties Such as activity/ productivity, morphology, and Stereospecificity Strongly 
+ effect the polymerization process. 
+ 0073 While the invention has been described with ref erence to preferred embodiments, it will be understood by 
+ those skilled in the art that various changes may be made and 
+ equivalents may be substituted for elements thereof without departing from the Scope of the invention. 
+ 0074 Thus, it is intended that the invention not be limited to the particular embodiments disclosed herein, but that the 
+ invention will include all embodiments falling within the Scope of the appended claims. 
+ 1. A method for making a magnesium-halide Support of a 
+ Specified particle shape, average diameter and particle diam 
+ eter distribution, which comprises: 
+ a) providing a non-aqueous Solution of a magnesium halide compound containing Silica particles dispersed 
+ therein, Said Silica particles having an average particle 
+ diameter of less than 1.0 micron; and 
+ b) crystallizing the magnesium-halide about the Silica particles to provide the magnesium-halide Support, 
+ wherein the magnesium-halide Support has an approxi mately Spherical shape, an average particle diameter 
+ from about 5 to about 150 microns, and a particle 
+ diameter distribution from about 1 to about 200. 
+ 2. The method for making a magnesium-halide Support 
+ according to claim 1, wherein the magnesium-halide Support 
+ has an average particle diameter from about 10 to about 100 
+ microns, and a particle diameter distribution from about 5 to 
+ about 150. 
+ 3. The method for making a magnesium-halide Support 
+ according to claim 2, wherein the magnesium-halide Support 
+ has an average particle diameter from about 20 to about 80 
+ microns, and a particle diameter distribution from about 10 
+ to about 100. 
+ 4. The method for making a magnesium-halide Support 
+ according to claim 1, wherein the Silica particles have an approximately Spherical shape, with a radius which does not 
+ vary by more than 20% from the center of the particle to any point on the particle Surface. Mar. 2, 2006 
+ 5. The method for making a magnesium-halide Support 
+ according to claim 4, wherein the Silica particles are fumed 
+ Silica. 
+ 6. The method for making a magnesium-halide Support 
+ according to claim 5, wherein 50% of the silica particles 
+ have diameters of from about 0.05 to about 0.5 microns. 
+ 7. The method for making a magnesium-halide Support 
+ according to claim 1, wherein the weight of the magnesium 
+ halide is about 10 wt % to about 90 wt % of the magnesium halide Support. 
+ 8. The method for making a magnesium-halide Support 
+ according to claim 7, wherein the weight of the magnesium 
+ halide is about 20 wt % to about 80 wt % of the magnesium halide Support. 
+ 9. The method for making a magnesium-halide Support 
+ according to claim 1, wherein the weight of the magnesium 
+ halide is about 30 wt % to about 70 wt % of the magnesium halide Support. 
+ 10. The method for making a magnesium-halide Support 
+ according to claim 1, wherein the crystallizing Step com prises cooling the magnesium-halide Solution from a tem 
+ perature above the melting point of the magnesium halide compound to a temperature below the melting point of the magnesium halide compound. 
+ 11. The method for making a magnesium-halide Support 
+ according to claim 1, wherein the non-aqueous Solution of Step (a) includes an anhydrous alcohol and the crystallizing Step compriseS removing the alcohol from the non-aqueous 
+ Solution. 
+ 12. The method for making a magnesium-halide Support 
+ according to claim 1, wherein the weight of the Silica particle is less than about 10 wt % of the magnesium-halide 
+ Support. 
+ 13. The method for making a magnesium-halide Support 
+ according to claim 19, wherein the weight of the Silica particle is less than about 5 wt % of the magnesium-halide 
+ Support. 
+ 14. The method of making a magnesium-halide Support 
+ according to claim 1, wherein the step (a) of providing a non-aqueous Solution of a magnesium halide containing 
+ Silica particles dispersed therein comprises: 
+ dispersing the Silica particles in a non-polar, non-ionic oil 
+ to form a Silica-oil dispersion, 
+ adding the magnesium halide compound to the Silica-oil dispersion, 
+ adding an anhydrous alkanol Solvent to the Silica-oil dispersion to provide a mixture containing dissolved magnesium-halide compound and Silica-oil dispersion. 
+ 15. The method of making a magnesium-halide Support 
+ according to claim 14 wherein the Step of crystallizing the magnesium halide onto the Silica particles comprises: 
+ combining the mixture containing the dissolved magne 
+ Sium-halide compound and Silica-oil dispersion with a hydrocarbon solvent chilled to a predetermined tem perature to cause the magnesium-halide compound to 
+ precipitate and crystallize onto the Silica particles. 
+ 16. The method of making a magnesium-halide Support 
+ according to claim 14 wherein the non-polar, non-ionic oil is Selected from the group consisting of mineral oil, paraffin 
+ oil and Silicone oil. "
+11,US20060046928.pdf,/home/anatoly_kayda/Desktop/mipt/data/novolen/US/US20060046928.pdf,12,NO,100.0, NO,0.0,"US 2006/0046928A1 
+ 17. The method of making a magnesium-halide Support 
+ according to claim 14, wherein the alkanol is Selected from the group consisting of ethanol, methanol and 2-ethyl-1- 
+ hexanol. 
+ 18. The method of making a magnesium-halide Support 
+ according to claim 14, wherein the magnesium-halide com pound is Selected from the group consisting of magnesium 
+ chloride, magnesium bromide, magnesium iodine, chloro magnesium hydroxide, bromomagnesium hydroxide and 
+ iodomagnesium hydroxide. 
+ 19. The method of making a magnesium-halide Support 
+ according to claim 15, wherein the hydrocarbon Solvent is Selected from the group consisting of heptane, hexane and cyclohexane. 
+ 20. The method of making a magnesium-halide Support 
+ according to claim 19 wherein the hydrocarbon solvent is 
+ chilled to a temperature ranging from about -90° C. to about 
+ O° C. 
+ 21. A method for making a catalyst of a specified particle 
+ shape, average diameter and particle diameter distribution, which comprises: 
+ a) providing a non-aqueous Solution of a magnesium 
+ halide containing Silica particles dispersed therein, Said 
+ Silica particles having an average particle diameter of 
+ less than 1.0 micron; 
+ b) crystallizing the magnesium-halide about the Silica particles to provide a magnesium-halide Support; and 
+ c) treating the magnesium-halide Support with a transition 
+ metal and an internal electron donor to form a catalyst, wherein the catalyst has an approximately spherical 
+ shape, an average particle diameter from about 2 to 
+ about 120 microns, and a particle diameter distribution 
+ from about 1 to about 200. 
+ 22. The method for making a catalyst according to claim 21, further comprising treating the catalyst with an alumi num co-catalyst. 
+ 23. The method for making a catalyst according to claim 21, further comprising treating the catalyst with an external 
+ electron donor. 
+ 24. The method for making a catalyst according to claim 21, further comprising treating the catalyst by extracting the 
+ catalyst with a transition metal. 25. The method for making a catalyst according to claim 
+ 21, further comprising treating the catalyst with an alumi 
+ num co-catalyst, an external electron donor and extracting 
+ the catalyst with a transition metal. 26. The method for making a catalyst according to claim 
+ 21 wherein the internal electron donor is selected from the 
+ groups consisting of diethyl phthalate, di-n-butyl phthalate, di-isobutyl phthalate, di-n-pentyl phthalate, di-n-hexyl 
+ phthalate, di-n-heptyl phthalate, di-n-octyl phthalate and di-2-ethylhexyl phthalate. 
+ 27. The method of claim 25 wherein the external election 
+ donor is Selected from the group consisting of: 
+ diisopropyldimethoxysilane, isobutylisopropyl dimethoxysilane, diisobutyldimethoxysilane, dicyclo Mar. 2, 2006 
+ pentyl-dimethoxysilane, cyclohexylmethyldimethoX ySilane, dicyclohexyldimethoxysilane, isopropyl-tert 
+ butyldimethoxysilane, isopropyl-Sec 
+ butyldimethoxysilane, and isobutyl-Sec 
+ butyldimethoxysilane. 
+ 28. A method for the polymerization of an olefin, com prising the Steps of 
+ a) providing a catalyst, in accordance with a method including the Steps of: 
+ i) providing a non-aqueous Solution of a magnesium 
+ halide containing Silica particles dispersed therein, Said Silica particles having an average particle diam 
+ eter of less than 1.0 micron; 
+ ii) crystallizing the magnesium-halide about the Silica particles to provide a magnesium-halide Support, 
+ iii) treating the magnesium-halide Support with a tran 
+ Sition metal and an internal electron donor to form a catalyst, 
+ iv) treating the catalyst with an aluminum co-catalyst 
+ and an external electron donor, wherein the resulting catalyst has an approximately spherical shape, an 
+ average particle diameter from about 2 to about 120 
+ microns, and a particle diameter distribution from 
+ about 1 to about 200; and 
+ b) contacting the olefin with the catalyst under polymer 
+ ization reaction conditions. 
+ 29. A magnesium-halide Support comprising: Silica par 
+ ticles coated with a magnesium-halide, wherein the magne sium-halide Support has an approximately Spherical shape, 
+ an average particle diameter from about 2 to about 120 
+ microns, and a particle diameter distribution from about 1 to about 200, Said Silica particles having an average particle 
+ diameter of less than 1.0 micron. 
+ 30. The magnesium-halide Support according to claim 29, 
+ wherein the weight of the Silica particles is less than about 10 wt % of the weight of the magnesium-halide support. 
+ 31. The magnesium-halide Support according to claim 30, 
+ wherein the weight of the Silica particles is less than about 5 wt % of the weight of the magnesium-halide Support. 32. A catalyst comprising: 
+ Silica particles coated with magnesium-halide, an internal 
+ electron donor and a transition metal, wherein the catalyst has an approximately Spherical shape, an aver 
+ age particle diameter from about 2 to about 120 
+ microns, and a particle diameter distribution from about 1 to about 200, Said Silica particles having an 
+ average particle diameter of less than 1.0 micron. 33. The catalyst according to claim 32, wherein the weight 
+ of the silica particles is less than about 10 wt % of the weight of the catalyst. 
+ 34. The catalyst according to claim 33, wherein the weight 
+ of the silica particles is less than about 5 wt % of the weight of the catalyst. "
